@@ -11,6 +11,7 @@ four-guardian federation.
 > small amounts on a card.
 
 - Site: [fedimintcard.org](https://fedimintcard.org)
-- Spike plan: [bobodread876/fedimint-card](https://github.com/bobodread876/fedimint-card)
+- Source: [fedimintcard/fedimintcard](https://github.com/fedimintcard/fedimintcard)
 - Built on [Fedimint](https://fedimint.org). Fedimint Card is an independent project.
+- Support: [fedimintcard.org/support](https://fedimintcard.org/support) · Privacy: [fedimintcard.org/privacy](https://fedimintcard.org/privacy)
 - Contact: hi@fedimintcard.org
